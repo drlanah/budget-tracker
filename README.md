@@ -13,17 +13,25 @@
 
 ### Preview
 
+![budget app](/assets/budget.gif)
+
 ### Description
 
--
+- AS AN avid traveller
+- I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+- SO THAT my account balance is accurate when I am traveling
 
 ### Installation
 
-- Heroku link:
+- npm i
+- npm start
+
+- Heroku link: https://cryptic-island-97785.herokuapp.com/
 
 ### Usage
 
--
+- Online/offline budget tracking app allows user to input budget data in offline settings.
+- User can enter name and amount of transaction, and select add/subtract funds. Data is populated in list of transactions, and graph reflects budget total over time.
 
 ### License
 
